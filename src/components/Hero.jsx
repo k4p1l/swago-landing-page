@@ -19,7 +19,7 @@ export const Hero = () => {
             </button>
           </div>
           <div>
-            <div className="h-[400px] w-[500px] bg-[#fe90fb] rounded-3xl"></div>
+            <div className="h-[400px] w-[500px] gradient rounded-3xl"></div>
           </div>
         </div>
       </div>

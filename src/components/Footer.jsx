@@ -1,5 +1,4 @@
 import logo from "../assets/images/logo.png";
-import { Link } from "react-router-dom";
 import "../assets/footer.css";
 export const Footer = () => {
   return (
@@ -19,20 +18,20 @@ export const Footer = () => {
               <div className="markets">
                 <h2>Markets</h2>
 
-                <Link>
+                <a href="#" target="_blank" rel="noreferrer">
                   Trending Markets
                   <ion-icon name="arrow-forward-sharp"></ion-icon>
-                </Link>
+                </a>
 
-                <Link>
+                <a href="#" target="_blank" rel="noreferrer">
                   Prediction Markets
                   <ion-icon name="arrow-forward-sharp"></ion-icon>
-                </Link>
+                </a>
 
-                <Link>
+                <a href="#" target="_blank" rel="noreferrer">
                   NFT Rewards Hub
                   <ion-icon name="arrow-forward-sharp"></ion-icon>
-                </Link>
+                </a>
               </div>
 
               <div className="markets">

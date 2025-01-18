@@ -7,3 +7,7 @@
   background-clip: content-box, border-box;
   box-shadow: 0 8px 20px rgba(40, 36, 255, 0.5);
 }
+
+.gradient {
+  background: linear-gradient(-120deg, #239aef, #8c3ac0, #ed1e79);
+}
